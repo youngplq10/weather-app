@@ -4,7 +4,7 @@ import axios from "axios";
 
 function App() {
     //Configure your openweathermap.org API key
-    const apiKey = "029001f47373fc67707439ebfaf1fdaa"
+    const apiKey = "YOUR API KEY"
 
     //Handle changes from city input field
     const [change, setChange] = useState(null)
